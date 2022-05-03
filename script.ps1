@@ -1,1 +1,1 @@
-Write-Output "Test"
+Write-Output "Test writing some output"
